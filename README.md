@@ -33,8 +33,8 @@ An AI-powered content pipeline that scrapes literature chapters from Wikisource,
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ai-chapter-rewriter.git
-cd ai-chapter-rewriter
+git clone https://github.com/devilisback100/AI_web_scrapper.git
+cd AI_web_scrapper
 
 # 2. Create a virtual environment
 python -m venv venv
