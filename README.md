@@ -32,16 +32,12 @@ An AI-powered content pipeline that scrapes literature chapters from Wikisource,
 ##  Installation
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/devilisback100/AI_web_scrapper.git
 cd AI_web_scrapper
 
-# 2. Create a virtual environment
 python -m venv venv
-source venv/bin/activate  # Or venv\Scripts\activate on Windows
+source venv/bin/activate  
 
-# 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Install Playwright's browser binaries
 playwright install
